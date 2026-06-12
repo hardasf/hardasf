@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-```javascript
+
 const rejard = {
   username: "hardasf",
   location: "Philippines 🇵🇭",
@@ -57,4 +57,4 @@ const rejard = {
 <div align="center">⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,50:764ba2,100:f093fb" /></div>
-```
+
