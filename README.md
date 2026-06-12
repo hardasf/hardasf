@@ -17,21 +17,7 @@
 ## 🚀 About Me
 
 
-const rejard = {
-  username: "hardasf",
-  location: "Philippines 🇵🇭",
-  languages: ["JavaScript", "PHP", "HTML", "CSS"],
-  backend: ["Node.js", "Express"],
-  database: ["MySQL", "JSON"],
-  interests: [
-    "AI Chatbots",
-    "Real-Time Apps",
-    "Multiplayer Games",
-    "Automation",
-    "Web Development"
-  ],
-  motto: "Code • Learn • Create • Repeat"
-};
+
 
 ---
 
